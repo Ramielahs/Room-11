@@ -1,0 +1,29 @@
+nav {
+    background-color: #876445;
+    text-align: right;
+}
+
+nav a {
+    text-decoration: none;
+ }
+
+nav ul {
+    list-style: none;
+ }
+
+ nav li {
+    display: inline-block;
+    padding: 35px;
+ }
+
+ .logo {
+     width: 150px;
+     margin-top: 2px;
+     margin-left: 15px;
+     float: left;
+ }
+
+.title {
+    text-align: left;
+    padding-top: 35px;
+}
