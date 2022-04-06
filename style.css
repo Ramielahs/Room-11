@@ -2,6 +2,8 @@ nav {
     background-color: #876445;
     text-align: right;
     height: 140px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Playfair Display', serif;
 }
 
 nav a {
@@ -15,11 +17,12 @@ nav ul {
  nav li {
     display: inline-block;
     padding: 35px;
-    margin-bottom: 100%;
  }
  
  main {
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Playfair Display', serif;
  }
 
  .logo {
@@ -38,4 +41,3 @@ nav ul {
     width: 515px;
     margin-left: 450px;
 }
-
