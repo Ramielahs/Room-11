@@ -4,9 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>About Us</title>
 </head>
 <body>
+    <h1> About Slice Of Life </h1>
     
+    <p> Slice Of Life is one of the many family run cafes in Manila, but it brings with it the charm it once had when it started oh so long ago. </p>
+    <p> The cafe was opened by the Arulinda family back in 1987 as a small business, over the years it has been growing in size and popularity due to the sheer quality of the brews, made with fresh coffee beans that are market bought every day and only using the top class methods to grind and make the finest cup for the most special guests. </p>
+    <p> Nowadays the cafe has grown much more in popularity, growing to adapt to the changing tides of time with new recipes and new items, but never ever changing the family old method of ensuring quality in each drop and pastry served to every customer.</p>
+    <p> So why not come over for a little Slice Of Life </p>
 </body>
 </html>
