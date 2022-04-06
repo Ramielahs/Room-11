@@ -17,6 +17,8 @@ nav ul {
  nav li {
     display: inline-block;
     padding: 35px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Playfair Display', serif;
  }
  
  main {
