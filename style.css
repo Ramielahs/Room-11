@@ -1,6 +1,5 @@
-nav {
+Vnav {
     background-color: #876445;
-    text-align: right;
     height: 140px;
     font-family: 'Montserrat', sans-serif;
     font-family: 'Playfair Display', serif;
@@ -13,14 +12,17 @@ nav a {
 nav ul {
     list-style: none;
  }
-
+ 
  nav li {
     display: inline-block;
     padding: 35px;
+    font-size: 20px;
+    color: white;
     font-family: 'Montserrat', sans-serif;
     font-family: 'Playfair Display', serif;
  }
  
+
  main {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
@@ -34,8 +36,7 @@ nav ul {
      float: left;
  }
 
-.title {
-    text-align: left;
+ .title {
     padding-top: 40px;
 }
 
