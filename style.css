@@ -1,0 +1,318 @@
+nav {
+    background-color: #332518;
+    height: 85px;
+    font-family: 'Poppins', sans-serif;
+    text-transform: capitalize;
+    font-size:50px;
+    width: 100%;
+    position: sticky;
+}
+
+ul {
+    list-style: none;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+ li{
+    display: inline-block;
+    padding: 30px;
+    font-size: 16px;
+    text-align:left;
+    margin-left: 100px;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif; 
+ }
+ 
+
+ main {
+    text-align: center;
+    font-family: 'Lora', serif;
+    font-size: 120px;
+    margin-top: 200px;
+    color: #332518;
+ }
+
+ body{
+     background-color:white;
+    
+ }
+ 
+ h1{
+    margin-top: -9px;
+    color: #332518;
+    text-transform: capitalize;
+    font-size:21px;
+ }
+
+ h2{
+     color: #332518;
+     text-align:center;
+     font-size: 21px;
+ }
+
+ h3{
+    margin-top: 200px;
+    font-family: 'Lora', serif;
+    color: #332518;
+    font-size:30px;
+    text-align:left;
+    margin-left: 60px;
+    
+    
+ }
+
+ h4{
+    font-family: 'Lora', serif;
+    color: #332518;
+    font-size:60px;
+    text-align:center;
+    
+ }
+
+ .logo {
+     width: 100px;
+     margin-top: 10px;
+     margin-left: 15px;
+     float: left;
+     position: fixed;
+ }
+
+ 
+ .title {
+    padding-top: 40px;
+}
+
+.col-sm-6{
+    width: 675px;
+    height: 500px;
+    margin-left: 450px;
+    float:right;
+    margin-top: -250px;
+
+}
+
+.about{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin-top: 130px;
+}
+
+.paragraph{
+    font-size: 18px;
+    padding-left: 160px;
+    padding-right: 160px;
+    font-family: 'Lora', serif;
+    font-style:italic;
+    text-align:center;
+}
+
+.ref{
+    padding: 80px;
+    border: 100px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.mt-3{
+    color:white;
+}
+
+.link{
+    text-align: center;
+}
+
+.video{
+    align-content: center;
+    width: 1349px;
+    margin-top: -12px;
+    margin-right: -5px;
+}
+
+.menu{
+    color: #332518;
+    text-align:left;
+    font-size: 21px;
+    padding-left: 160px;
+    padding-right: 160px;
+    margin-top: 130px;
+}
+
+.drink1{
+    width: 250px;
+    border-radius: 20%;
+    margin-left: -10px;
+}
+
+.americano{
+    padding-left: 40px;
+}
+
+.drink2{
+    width: 230px;
+    border-radius: 20%;
+    margin-left: 280px;
+    margin-top: -350px; 
+}
+
+.espresso{
+    margin-left: 360px;
+    margin-top: -75px; 
+}
+
+.drink3{
+    width: 230px;
+    border-radius: 20%;
+    margin-left: 550px;
+    margin-top: -350px; 
+}
+
+.cappuccino{
+    margin-left: 610px;
+    margin-top: -80px; 
+
+}
+
+.drink4{
+    width: 230px;
+    border-radius: 20%;
+    margin-left: 830px;
+    margin-top: -350px; 
+}
+
+.latte{
+    margin-left: 890px;
+    margin-top: -75px; 
+}
+
+.drink5{
+    width: 240px;
+    height: 220px;
+    border-radius: 20%;
+}
+
+.macchiato{
+    margin-left: 30px;
+    margin-top: 1px; 
+}
+
+.drink6{
+    width: 230px;
+    border-radius: 20%;
+    margin-left: 280px;
+    margin-top: -350px; 
+}
+
+.mocha{
+    margin-left: 340px;
+    margin-top: -80px; 
+}
+
+.tea{
+    color: #332518;
+    text-align:left;
+    font-size: 21px;
+    margin-top: 50px;
+}
+
+.drink7{
+    width: 240px;
+    border-radius: 20%;
+    margin-left: -10px;
+}
+
+.earlgrey{
+    margin-left: 40px;
+    margin-top: 1px; 
+}
+
+.drink8{
+    width: 230px;
+    border-radius: 20%;
+    margin-left: 280px;
+    margin-top: -370px; 
+}
+
+.chai{
+    margin-left: 350px;
+    margin-top: -80px; 
+}
+
+.drink9{
+    width: 230px;
+    border-radius: 20%;
+    margin-left: 550px;
+    margin-top: -365px; 
+}
+
+.chailatte{
+    margin-left: 600px;
+    margin-top: -80px; 
+
+}
+
+.drink10{
+    width: 230px;
+    border-radius: 20%;
+    margin-left: 830px;
+    margin-top: -350px; 
+}
+
+.matcha{
+    margin-left: 880px;
+    margin-top: -75px; 
+}
+
+.foods{
+    color: #332518;
+    text-align:left;
+    font-size: 21px;
+    margin-top: 50px;
+}
+
+.food1{
+    width: 240px;
+    border-radius: 20%;
+    margin-left: -10px;
+}
+
+.sandwich{
+    margin-left: 60px;
+    margin-top: 1px; 
+}
+
+.food2{
+    width: 230px;
+    border-radius: 20%;
+    margin-left: 280px;
+    margin-top: -320px; 
+    height: 180px;
+}
+
+.muffin{
+    margin-left: 360px;
+    margin-top: -80px; 
+}
+
+.food3{
+    width: 230px;
+    border-radius: 20%;
+    margin-left: 550px;
+    margin-top: -320px; 
+}
+
+.croissant{
+    margin-left: 620px;
+    margin-top: -80px; 
+
+}
+
+.food4{
+    width: 230px;
+    border-radius: 20%;
+    margin-left: 830px;
+    margin-top: -320px; 
+}
+
+.apie{
+    margin-left: 900px;
+    margin-top: -80px; 
+}
